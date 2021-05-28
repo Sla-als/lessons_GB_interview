@@ -10,7 +10,7 @@ public class ErrorDescriptor {
 //        void stop();
 //    }
 //
-//    abstract class Car {
+//    abstract class Car {  добавить импплементацию от MoveableMoveable и Stopable
 //        public Engine engine;
 //        private String color;
 //        private String name;
@@ -61,7 +61,7 @@ public class ErrorDescriptor {
 //
 //    }
 //0
-//    class Lorry extends Car, Moveable, Stopable{
+//    class Lorry extends Car, Moveable, Stopable{  Множественное наследование добавить implemens 
 //
 //        public void move(){
 //            System.out.println("Car is moving");
